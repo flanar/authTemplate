@@ -1,0 +1,1 @@
+Client tempalte for epxpress/react applications with jwt tokens authentication
